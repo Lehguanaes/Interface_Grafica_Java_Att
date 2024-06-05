@@ -55,8 +55,11 @@
 <a href="Atividade_Interface_Grafica/src/main/java/com/mycompany/atividade_interface_grafica/Exercicio_Formulario.java" target="_blank"><img src="https://img.shields.io/badge/> Exercício Formulário-0D1117?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=40e0d0"></a>
 
 
-<img width="416" alt="image" src="https://github.com/Lehguanaes/Interface_Grafica_Java_Att/assets/125403978/947d96b7-838f-4a74-8341-90a2818483be">
-<img width="410" alt="image" src="https://github.com/Lehguanaes/Interface_Grafica_Java_Att/assets/125403978/2c57a5c3-f264-426a-b744-d23743b685a7">
-<img width="320" alt="image" src="https://github.com/Lehguanaes/Interface_Grafica_Java_Att/assets/125403978/b3d959f0-3aea-43ec-b2d5-ae12eb5e189f">
+<img width="316" alt="image" src="https://github.com/Lehguanaes/Interface_Grafica_Java_Att/assets/125403978/947d96b7-838f-4a74-8341-90a2818483be">
+
+#
+
+<img width="310" alt="image" src="https://github.com/Lehguanaes/Interface_Grafica_Java_Att/assets/125403978/2c57a5c3-f264-426a-b744-d23743b685a7">
+<img width="325" alt="image" src="https://github.com/Lehguanaes/Interface_Grafica_Java_Att/assets/125403978/b3d959f0-3aea-43ec-b2d5-ae12eb5e189f">
 
 #
